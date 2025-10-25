@@ -23,7 +23,7 @@ Puedes abrirlos directamente desde los siguientes enlaces 👇
 
 | Programa | Descripción | Enlace |
 |-----------|--------------|--------|
-| **Pila.java** | Implementación de una pila genérica | [Ver código](./src/P[Uploading ListaDoble.java…]()
+| **Ejercicios Practicos** | Implementación de una pila genérica | [
 ila.java) |
 | **Cola.java** | Estructura de cola | [Ver código](./src/Cola.java) |
 | **ListaEnlazada.java** | Lista enlazada simple | [Ver código](./src/ListaEnlazada.java) |
