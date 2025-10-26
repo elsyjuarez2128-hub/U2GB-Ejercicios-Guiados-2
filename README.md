@@ -21,12 +21,13 @@ Puedes abrirlos directamente desde los siguientes enlaces 👇
 
 ## 💻 Códigos en Java
 
-| Programa | Descripción | Enlace |
-|-----------|--------------|--------|
-| **Ejercicios Practicos** | Implementación de una pila genérica | [
-ila.java) |
-| **Cola.java** | Estructura de cola | [Ver código](./src/Cola.java) |
-| **ListaEnlazada.java** | Lista enlazada simple | [Ver código](./src/ListaEnlazada.java) |
+| Programa                 | Descripción               | Ver código |
+|--------------------------|---------------------------|-------------|
+| **Pila.java**            | Implementación de una pila | [Ver código](./origen/origen/fuente/pila.java) |
+| **ListaCircular.java**   | Lista circular             | [Ver código](./ListaCircular.java) |
+| **ListaDoble.java**      | Lista doble                | [Ver código](./ListaDoble.java) |
+| **ListaSimpleVisual.java** | Lista enlazada visual     | [Ver código](./ListaSimpleVisual.java) |
+
 
 
 ## 🧭 Navegación
