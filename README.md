@@ -23,7 +23,6 @@ Puedes abrirlos directamente desde los siguientes enlaces 👇
 
 | Programa                 | Descripción               | Ver código |
 |--------------------------|---------------------------|-------------|
-| **Pila.java**            | Implementación de una pila | [Ver código](./origen/origen/fuente/pila.java) |
 | **ListaCircular.java**   | Lista circular             | [Ver código](./ListaCircular.java) |
 | **ListaDoble.java**      | Lista doble                | [Ver código](./ListaDoble.java) |
 | **ListaSimpleVisual.java** | Lista enlazada visual     | [Ver código](./ListaSimpleVisual.java) |
