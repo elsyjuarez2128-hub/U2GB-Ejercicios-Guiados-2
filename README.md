@@ -32,7 +32,7 @@ Puedes abrirlos directamente desde los siguientes enlaces 👇
 | **Nodo.java**             | Nodo | [Ver código](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Nodo.java) |
 | **Pruebas.java** | ColasTareas | [Ver código](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/ColasTareas.java) |
 
-# Evidencias 
+# Evidencias Ejercicio de Ordenamiento por Intercambio con Tarjetas "Circulares"
 
 | Actividad| Evidencia | 
 |--------------------|------------------
