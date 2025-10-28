@@ -16,6 +16,7 @@ Puedes abrirlos directamente desde los siguientes enlaces 👇
 | **Ejercicio de Lista Enlazada Simple con VisuaAlgo** | Actividad 3 |[Ejercicio de Lista Enlazada Simple con VisuAlgo.pdf](https://github.com/user-attachments/files/23145236/Ejercicio.de.Lista.Enlazada.Simple.con.VisuAlgo.pdf)|
 | **Ejercicio de pila con VisuAlgo**|Actividad 4|[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-attachments/files/23145263/U2ACT2.Ejercicio.de.pila.con.VisuAlgo-Elsy.Juarez.pdf)|
 | **Manual de Practica y Algoritmica**|Actividad5|[U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf](https://github.com/user-attachments/files/23145267/U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf)|
+| **Capturas de Cola** | Actividad 6 |[Capturas de Cola.pdf](https://github.com/user-attachments/files/23178440/Capturas.de.Cola.pdf)|
 
 ---
 
