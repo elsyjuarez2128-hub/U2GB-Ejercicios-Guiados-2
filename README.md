@@ -32,4 +32,12 @@ Puedes abrirlos directamente desde los siguientes enlaces 👇
 | **Nodo.java**             | Nodo | [Ver código](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Nodo.java) |
 | **Pruebas.java** | ColasTareas | [Ver código](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/ColasTareas.java) |
 
+# Evidencias 
 
+| Programa / Archivo | Descripción breve | Lenguaje | Enlace |
+|--------------------|-------------------:|:--------:|:------:|
+| Evidencia       | Implementación de una pila (push, pop, peek). | Java | ![WhatsApp Image 2025-10-28 at 2 27 51 PM](https://github.com/user-attachments/assets/d51141eb-173e-4267-a06f-f9b3171369fd)|
+| `Evidencia` | Lista circular con inserción y eliminación. | Java | ![WhatsApp Image 2025-10-28 at 2 38 01 PM](https://github.com/user-attachments/assets/d9562a1f-8f09-4df2-9dc6-f52d26152b3c)|
+| `Evidencia`  | Lista doblemente enlazada con iterador. | Java | ![WhatsApp Image 2025-10-28 at 2 27 26 PM](https://github.com/user-attachments/assets/2603bdb5-7a34-45f5-a6f9-7b6fa111f7b8)|
+| `Nodo.java`        | Clase Nodo usada por listas y colas. | Java |<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/28fc6cef-efad-4cf3-a700-1f3072fb2968" />|
+|Preguntas|Evidencia|<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/905939d2-39fb-4f58-b0af-db5358027d07" />|
