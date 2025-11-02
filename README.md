@@ -1,24 +1,67 @@
 # Estrutura de datos 
 # Unidad 2 Elsy Joselyn Godinez Juarez
 # 📚 Actividades
-
-Este repositorio contiene los documentos del proyecto.  
-Puedes abrirlos directamente desde los siguientes enlaces 👇
+ 👇
 
 ---
-## Codigo de Pila
-|Archivo|Descripcion|Codigo|
-|Istack.java||
-|## 📄 Documentos
 
-| Actividades | Nombre Actividad | Documentos |
-|------------|--------------|--------|
-| **Lista Encantada** | Actividad 1 |[U2ACT2 Lista Encantada Humana en Java-Elsy.Godinez.pdf](https://github.com/user-attachments/files/23145225/U2ACT2.Lista.Encantada.Humana.en.Java-Elsy.Godinez.pdf)|
-| **Capturas de Listas Enlazadas** | Actividad 2|[Listas.Enlazadas.pdf](https://github.com/user-attachments/files/23145228/Listas.Enlazadas.pdf)|
-| **Ejercicio de Lista Enlazada Simple con VisuaAlgo** | Actividad 3 |[Ejercicio de Lista Enlazada Simple con VisuAlgo.pdf](https://github.com/user-attachments/files/23145236/Ejercicio.de.Lista.Enlazada.Simple.con.VisuAlgo.pdf)|
-| **Ejercicio de pila con VisuAlgo**|Actividad 4|[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-attachments/files/23145263/U2ACT2.Ejercicio.de.pila.con.VisuAlgo-Elsy.Juarez.pdf)|
-| **Manual de Practica y Algoritmica**|Actividad5|[U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf](https://github.com/user-attachments/files/23145267/U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf)|
-| **Capturas de Cola** | Actividad 6 |[Capturas de Cola.pdf](https://github.com/user-attachments/files/23178440/Capturas.de.Cola.pdf)|
+### 📄 Código fuente
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `IStack.java` | Interfaz que define las operaciones básicas de una pila. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/IStack.java) |
+| `StackArray.java` | Implementación de la pila usando un arreglo genérico. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/StackArray.java) |
+| `MainStack.java` | Clase principal para probar las operaciones push, pop y peek. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/MainStack.java) |
+
+### 📘 Actividades relacionadas
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `ACT2_ED_PilasVisuAlgo.pdf` |Implementación visual de pilas en Java. |[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-|
+| `CapturasPilasListas.pdf` | Actividad de repaso de Pilas y Listas | [Listas.Enlazadas.pdf](https://github.com/user-attachments/files/23145228/Listas.Enlazadas.pdf)|
+
+## Listas Simples
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `Nodo.java` | Clase que representa un nodo en la lista enlazada. | [Ver código](./Ejercicios_Guiados/Codigo/listas/Nodo.java) |
+| `Estudiante.java` | Clase modelo usada dentro de la lista. | [Ver código](./Ejercicios_Guiados/Codigo/listas/Estudiante.java) |
+| `FilaJoker.java` | Ejemplo de lista que maneja una fila de objetos. | [Ver código](./Ejercicios_Guiados/Codigo/listas/FilaJoker.java) |
+
+ ### 📘 Actividades relacionadas
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `U2ACT2_ListaEncanda.pdf` | Ejercicio práctico de listas enlazadas. | [U2ACT2 Lista Encantada Humana en Java-Elsy.Godinez.pdf](https://github.com/user-attachments/files/23145225/U2ACT2.Lista.Encantada.Humana.en.Java-Elsy.Godinez.pdf)|
+| `U2ACT1_EstructuraDeDatos.pdf` | Actividad de Listas Simples en VisuAlgo | [Ejercicio de Lista Enlazada Simple con VisuAlgo.pdf](https://github.com/user-
+
+## 🔁 LISTA DOBLEMENTE ENLAZADA
+
+### 📄 Código 
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `Nodo.java` | Clase nodo para lista doblemente enlazada. | [Ver código](./Ejercicios_Guiados/Codigo/listaDoble/Nodo.java) |
+
+## Actividades relacionadas 
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `Manual de Practica y Algoritmicapdf` | Actividad Practica de Listas Doblemente Enlazadas | [U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf](https://github.com/user-
+
+## 🌀 Colas
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `Cola.java` | Clase de un TAD Cola con datos genéricos | [Ver código](./Ejercicios_Guiados/Codigo/colas/Cola.java) |
+| `Nodo.java` | Clase de un Nodo para un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Nodo.java) |
+| `Main.java` | Clase main de prueba de las operaciones de un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Main.java) |
+| `Menu.java`  | Clase main que implementa un menú con las operaciones de un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Menu.java)
+
+### 📘 Actividades relacionadas
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `Colas.pdf` | Implementación de colas en Java | [Capturas de Cola.pdf](https://github.com/user-attachments/files/23178440/Capturas.de.Cola.pdf)|
 
 ---
 
