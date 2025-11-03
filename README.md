@@ -17,8 +17,7 @@
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `ACT2_ED_PilasVisuAlgo.pdf` |Implementación visual de pilas en Java. |[[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-attachments/files/23297642/U2ACT2.Ejercicio.de.pila.con.VisuAlgo-Elsy.Juarez.pdf)
-|
+| `ACT2_ED_PilasVisuAlgo.pdf` |Implementación visual de pilas en Java. |[[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-attachments/files/23297642/U2ACT2.Ejercicio.de.pila.con.VisuAlgo-Elsy.Juarez.pdf)|
 | `CapturasPilasListas.pdf` | Actividad de repaso de Pilas y Listas | [Listas.Enlazadas.pdf](https://github.com/user-attachments/files/23145228/Listas.Enlazadas.pdf)|
 
 ## Listas Simples
