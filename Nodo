@@ -1,0 +1,30 @@
+package listas;
+/**
+ *
+ * @author Elsy Joselyn Godinez Juarez
+ */
+public class Nodo<T> {
+    private T dato;
+    private Nodo izquierda;
+    
+     public Nodo(){
+        
+    }
+
+    public T getDato() {
+        return dato;
+    }
+
+    public void setDato(T dato) {
+        this.dato = dato;
+    }
+
+    public Nodo getIzquierda() {
+        return izquierda;
+    }
+
+    public void setIzquierda(Nodo izquierda) {
+        this.izquierda = izquierda;
+    }
+    
+}
