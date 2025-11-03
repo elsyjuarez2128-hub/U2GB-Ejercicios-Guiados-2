@@ -17,7 +17,8 @@
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `ACT2_ED_PilasVisuAlgo.pdf` |Implementación visual de pilas en Java. |[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-|
+| `ACT2_ED_PilasVisuAlgo.pdf` |Implementación visual de pilas en Java. |[[U2ACT2 Ejercicio de pila con VisuAlgo-Elsy Juarez.pdf](https://github.com/user-attachments/files/23297642/U2ACT2.Ejercicio.de.pila.con.VisuAlgo-Elsy.Juarez.pdf)
+|
 | `CapturasPilasListas.pdf` | Actividad de repaso de Pilas y Listas | [Listas.Enlazadas.pdf](https://github.com/user-attachments/files/23145228/Listas.Enlazadas.pdf)|
 
 ## Listas Simples
@@ -32,7 +33,8 @@
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
 | `U2ACT2_ListaEncanda.pdf` | Ejercicio práctico de listas enlazadas. | [U2ACT2 Lista Encantada Humana en Java-Elsy.Godinez.pdf](https://github.com/user-attachments/files/23145225/U2ACT2.Lista.Encantada.Humana.en.Java-Elsy.Godinez.pdf)|
-| `U2ACT1_EstructuraDeDatos.pdf` | Actividad de Listas Simples en VisuAlgo | [Ejercicio de Lista Enlazada Simple con VisuAlgo.pdf](https://github.com/user-
+| `U2ACT1_EstructuraDeDatos.pdf` | Actividad de Listas Simples en VisuAlgo | [[Ejercicio de Lista Enlazada Simple con VisuAlgo.pdf](https://github.com/user-attachments/files/23297679/Ejercicio.de.Lista.Enlazada.Simple.con.VisuAlgo.pdf)
+|
 
 ## 🔁 LISTA DOBLEMENTE ENLAZADA
 
@@ -46,8 +48,9 @@
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `Manual de Practica y Algoritmicapdf` | Actividad Practica de Listas Doblemente Enlazadas | [U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf](https://github.com/user-
+| `Manual de Practica y Algoritmicapdf` | Actividad Practica de Listas Doblemente Enlazadas | [[U2ACT3 Practica Manual y Algoritmica Lista-Elsy Juarez.pdf](https://github.com/user-attachments/files/23297734/U2ACT3.Practica.Manual.y.Algoritmica.Lista-Elsy.Juarez.pdf)
 
+|
 ## 🌀 Colas
 
 | Archivo | Descripción | Enlace |
