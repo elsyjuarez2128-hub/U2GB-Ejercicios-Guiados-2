@@ -24,7 +24,7 @@
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
 | `Nodo.java` | Clase que representa un nodo en la lista enlazada. | [Ver código](./Ejercicios_Guiados/Codigo/listas/Nodo.java) |
-| `Estudiante.java` | Clase modelo usada dentro de la lista. | [Ver código](./Ejercicios_Guiados/Codigo/listas/Estudiante.java) |
+| `Estudiante.java` | Clase modelo usada dentro de la lista. |[Ver código](./Ejercicios_Guiados/Codigo/listas/Estudiante.java) |](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Estudiante)
 | `FilaJoker.java` | Ejemplo de lista que maneja una fila de objetos. | [Ver código](./Ejercicios_Guiados/Codigo/listas/FilaJoker.java) |
 
  ### 📚 Actividades relacionadas
