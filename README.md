@@ -13,7 +13,7 @@
 | `StackArray.java` | Implementación de la pila usando un arreglo genérico. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/StackArray.java) |
 | `MainStack.java` | Clase principal para probar las operaciones push, pop y peek. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/MainStack.java) |
 
-### 📘 Actividades relacionadas
+### 📚 Actividades relacionadas
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
@@ -27,7 +27,7 @@
 | `Estudiante.java` | Clase modelo usada dentro de la lista. | [Ver código](./Ejercicios_Guiados/Codigo/listas/Estudiante.java) |
 | `FilaJoker.java` | Ejemplo de lista que maneja una fila de objetos. | [Ver código](./Ejercicios_Guiados/Codigo/listas/FilaJoker.java) |
 
- ### 📘 Actividades relacionadas
+ ### 📚 Actividades relacionadas
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
@@ -43,7 +43,7 @@
 |----------|--------------|--------|
 | `Nodo.java` | Clase nodo para lista doblemente enlazada. | [Ver código](./Ejercicios_Guiados/Codigo/listaDoble/Nodo.java) |
 
-## Actividades relacionadas 
+## 📚Actividades relacionadas 
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
@@ -59,7 +59,7 @@
 | `Main.java` | Clase main de prueba de las operaciones de un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Main.java) |
 | `Menu.java`  | Clase main que implementa un menú con las operaciones de un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Menu.java)
 
-### 📘 Actividades relacionadas
+### 📚 Actividades relacionadas
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
@@ -67,7 +67,7 @@
 
 ---
 
-# Evidencias Ejercicio de Ordenamiento por Intercambio con Tarjetas "Circulares"
+# 📚 Evidencias Ejercicio de Ordenamiento por Intercambio con Tarjetas "Circulares"
 
 | Actividad| Evidencia | 
 |--------------------|------------------
