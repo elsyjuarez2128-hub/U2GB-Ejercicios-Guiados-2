@@ -1,0 +1,71 @@
+import java.util.Scanner;
+
+/**
+ * Clase principal para probar la Cola con un menú interactivo.
+ *@autor Elsy Joselyn Godinez Juarez
+*/
+public class MainCola {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        Cola<String> cola = new Cola<>();
+        int opcion;
+
+        do {
+            System.out.println("\n===== MENÚ DE COLA =====");
+            System.out.println("1. Encolar (agregar elemento)");
+            System.out.println("2. Desencolar (eliminar elemento)");
+            System.out.println("3. Mostrar frente");
+            System.out.println("4. Mostrar todos los elementos");
+            System.out.println("5. Ver tamaño");
+            System.out.println("6. Verificar si está vacía");
+            System.out.println("0. Salir");
+            System.out.print("Seleccione una opción: ");
+            opcion = scanner.nextInt();
+            scanner.nextLine(); // limpiar buffer
+
+            switch (opcion) {
+                case 1:
+                    System.out.print("Ingrese un elemento: ");
+                    String dato = scanner.nextLine();
+                    cola.encolar(dato);
+                    System.out.println("✅ Elemento encolado correctamente.");
+                    break;
+
+                case 2:
+                    String eliminado = cola.desencolar();
+                    if (eliminado != null) {
+                        System.out.println("🗑️ Elemento eliminado: " + eliminado);
+                    }
+                    break;
+
+                case 3:
+                    String frente = cola.frente();
+                    if (frente != null) {
+                        System.out.println("👀 Elemento en el frente: " + frente);
+                    }
+                    break;
+
+                case 4:
+                    cola.mostrar();
+                    break;
+
+                case 5:
+                    System.out.println("📏 Tamaño de la cola: " + cola.tamanio());
+                    break;
+
+                case 6:
+                    System.out.println(cola.estaVacia() ? "❌ La cola está vacía." : "✅ La cola tiene elementos.");
+                    break;
+
+                case 0:
+                    System.out.println("👋 Saliendo del programa...");
+                    break;
+
+                default:
+                    System.out.println("⚠️ Opción no válida, intente de nuevo.");
+            }
+        } while (opcion != 0);
+
+        scanner.close();
+    }
+}
