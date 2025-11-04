@@ -23,9 +23,9 @@
 ## Listas Simples
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `Nodo.java` | Clase que representa un nodo en la lista enlazada. | [Ver código](./Ejercicios_Guiados/Codigo/listas/Nodo.java) |
-| `Estudiante.java` | Clase modelo usada dentro de la lista.[ |[Ver código](./Ejercicios_Guiados/Codigo/listas/Estudiante.java) |](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Estudiante)](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Estudiante)
-| `FilaJoker.java` | Ejemplo de lista que maneja una fila de objetos. | [Ver código](./Ejercicios_Guiados/Codigo/listas/FilaJoker.java) |
+| `Nodo.java` | Clase que representa un nodo en la lista enlazada. | [Ver código](./Nodo) |
+| `Estudiante.java` | Clase modelo usada dentro de la lista.[ |[Ver código](./Estudiante))]
+| `FilaJoker.java` | Ejemplo de lista que maneja una fila de objetos. | [Ver código](./FilaJoker.java) |
 
  ### 📚 Actividades relacionadas
 
@@ -41,7 +41,7 @@
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `Nodo.java` | Clase nodo para lista doblemente enlazada. | [Ver código](./Ejercicios_Guiados/Codigo/listaDoble/Nodo.java) |
+| `Nodo.java` | Clase nodo para lista doblemente enlazada. | [Ver código](./Nodo.java) |
 
 ## 📚Actividades relacionadas 
 
@@ -54,10 +54,9 @@
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `Cola.java` | Clase de un TAD Cola con datos genéricos | [Ver código](./Ejercicios_Guiados/Codigo/colas/Cola.java) |
-| `Nodo.java` | Clase de un Nodo para un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Nodo.java) |
-| `Main.java` | Clase main de prueba de las operaciones de un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Main.java) |
-| `Menu.java`  | Clase main que implementa un menú con las operaciones de un TAD Cola | [Ver código](./Ejercicios_Guiados/Codigo/colas/Menu.java)
+| `Cola.java` | Clase de un TAD Cola con datos genéricos | [Ver código](./Cola.java) |
+| `Nodo.java` | Clase de un Nodo para un TAD Cola | [Ver código](./Nodo.java) |
+| `Main.java` | Clase main de prueba de las operaciones de un TAD Cola | [Ver código](./MainCola) |
 
 ### 📚 Actividades relacionadas
 
