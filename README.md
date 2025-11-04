@@ -10,8 +10,8 @@
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
 | `IStack.java` | Interfaz que define las operaciones básicas de una pila. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/IStack.java) |
-| `StackArray.java` | Implementación de la pila usando un arreglo genérico. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/StackArray.java) |
-| `MainStack.java` | Clase principal para probar las operaciones push, pop y peek. | [Ver código](./Ejercicios_Guiados/Codigo/pilas/MainStack.java) |
+| `StackArray.java` | Implementación de la pila usando un arreglo genérico. | [Ver código](./StackArray.java) |
+| `MainStack.java` | Clase principal para probar las operaciones push, pop y peek. | [Ver código](./MainStack.java)
 
 ### 📚 Actividades relacionadas
 
