@@ -75,3 +75,11 @@
 | **Evidencia**  | ![WhatsApp Image 2025-10-28 at 2 27 26 PM](https://github.com/user-attachments/assets/2603bdb5-7a34-45f5-a6f9-7b6fa111f7b8)|
 | **Evidencia**|<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/28fc6cef-efad-4cf3-a700-1f3072fb2968" />|
 |**Preguntas**|<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/905939d2-39fb-4f58-b0af-db5358027d07" />|
+
+
+# Actividades Ejercicios Guiados Ordenamiento de java
+📚 Actividades relacionadas
+
+| Archivo | Descripción | Enlace |
+|----------|--------------|--------|
+| `Ordenamiento.java` | Ejercicios Guiados |[Ejercicios Guiados Ordenamiento Java.pdf](https://github.com/user-attachments/files/23350163/Ejercicios.Guiados.Ordenamiento.Java.pdf) |
