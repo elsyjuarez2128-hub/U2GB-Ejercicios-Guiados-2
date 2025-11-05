@@ -82,4 +82,5 @@
 
 | Archivo | Descripción | Enlace |
 |----------|--------------|--------|
-| `Ordenamiento.java` | Ejercicios Guiados |[Ejercicios Guiados Ordenamiento Java.pdf](https://github.com/user-attachments/files/23350163/Ejercicios.Guiados.Ordenamiento.Java.pdf) |
+| `Ordenamiento.java` | Ejercicios Guiados | [Actividades en Clase.pdf](https://github.com/user-attachments/files/23350179/Actividades.en.Clase.pdf)
+|
